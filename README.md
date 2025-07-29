@@ -2,11 +2,22 @@
 https://github.com/marydias777
 atualmente cursando técnico de desenvolvimento de sistemas no senai a. jacob lafer e, no 3° ano do ensino médio no sesi em santo andre - sp. ja fiz curso de hardware e de inglês.
 
+## cursos 
+*excel 
+*economia circular
+*desvendando esg
+*LGPD
+*Empreender Senai
+*Web 3.0
+*Competência Transversal - Segurança no Trabalho
+*Competência Transversal -Lógica de Programação
+
+
 para manter contato:
 * e-mail: diassxzs@gmail.com
 * ig: maryxsz___
 
-##  tecnologias e ferramentas:
+### tecnologias e ferramentas:
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
