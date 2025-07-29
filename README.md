@@ -4,7 +4,7 @@ atualmente cursando técnico de desenvolvimento de sistemas no senai a. jacob la
 
 ## cursos 
 ** excel 
-*economia circular
+**economia circular
 *desvendando esg
 *LGPD
 *Empreender Senai
