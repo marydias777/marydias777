@@ -1,5 +1,5 @@
 # maria dias (ela/dela) 
-https://github.com/marydias777 - https://www.linkedin.com/in/maria-eduarda-dias-moura/
+https://github.com/marydias777
 atualmente cursando técnico de desenvolvimento de sistemas no senai a. jacob lafer e, no 3° ano do ensino médio no sesi em santo andre - sp. ja fiz curso de hardware e de inglês.
 
 ## cursos 
@@ -9,6 +9,7 @@ excel - economia circular - desvendando esg - LGPD - empreender Senai - web 3.0 
 para manter contato:
 * e-mail: diassxzs@gmail.com
 * ig: maryxsz___
+* https://www.linkedin.com/in/maria-eduarda-dias-moura/
 
 ### tecnologias e ferramentas:
 
