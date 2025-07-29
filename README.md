@@ -3,14 +3,7 @@ https://github.com/marydias777
 atualmente cursando técnico de desenvolvimento de sistemas no senai a. jacob lafer e, no 3° ano do ensino médio no sesi em santo andre - sp. ja fiz curso de hardware e de inglês.
 
 ## cursos 
-** excel 
-**economia circular
-*desvendando esg
-*LGPD
-*Empreender Senai
-*Web 3.0
-*Competência Transversal - Segurança no Trabalho
-*Competência Transversal -Lógica de Programação
+excel - economia circular - desvendando esg - LGPD - empreender Senai - web 3.0 - competência tansversal (segurança no trabalho) - competência transversal (lógica de programação)
 
 
 para manter contato:
