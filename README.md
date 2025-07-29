@@ -3,7 +3,7 @@ https://github.com/marydias777
 atualmente cursando técnico de desenvolvimento de sistemas no senai a. jacob lafer e, no 3° ano do ensino médio no sesi em santo andre - sp. ja fiz curso de hardware e de inglês.
 
 ## cursos 
-*excel 
+** excel 
 *economia circular
 *desvendando esg
 *LGPD
